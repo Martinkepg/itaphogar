@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1600"
+   height="1200"
+   viewBox="0 0 1600 1200"
+   role="img"
+   aria-label="Abstract translucent navy-to-teal organic blob on white"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname="itap-hogar-organic-blob-v1.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  
+  <defs
+     id="defs2">
+    <linearGradient
+       id="blobGradient"
+       x1="0%"
+       y1="12%"
+       x2="100%"
+       y2="88%">
+      <stop
+         offset="0%"
+         stop-color="#1B2A4E"
+         id="stop1" />
+      <stop
+         offset="100%"
+         stop-color="#28C2C4"
+         id="stop2" />
+    </linearGradient>
+  </defs>
+  
+  <path
+     d="M313 336C411 207 610 153 783 201C931 242 1004 337 1154 354C1312 372 1420 468 1401 600C1384 718 1267 764 1192 862C1102 980 943 1043 790 994C645 948 562 863 408 846C252 829 159 733 183 602C202 497 248 421 313 336Z"
+     fill="url(#blobGradient)"
+     opacity="0.18"
+     id="path2" />
+</svg>
