@@ -1334,6 +1334,35 @@
       margin-bottom: 32px
     }
 
+    .cta-final .privacy-note {
+      display: flex;
+      align-items: flex-start;
+      gap: 10px;
+      margin-top: 22px;
+      max-width: 46ch;
+      font-size: .88rem;
+      line-height: 1.6;
+      color: rgba(255, 255, 255, .62)
+    }
+
+    .cta-final .privacy-note svg {
+      width: 17px;
+      height: 17px;
+      flex: 0 0 17px;
+      margin-top: 3px;
+      color: var(--teal)
+    }
+
+    .cta-final .privacy-note a {
+      color: #fff;
+      text-decoration: underline;
+      text-underline-offset: 3px
+    }
+
+    .cta-final .privacy-note a:hover {
+      color: var(--teal)
+    }
+
     .cta-final .hours {
       margin-top: 36px;
       font-size: .95rem;
@@ -2080,7 +2109,9 @@
               <path d="M12 5v14M5 12h14" />
             </svg></summary>
           <p>Una foto general del mueble, colchón, alfombra o interior, con luz natural, y una de cerca si hay una
-            mancha específica. Si son varias piezas, una foto por pieza es suficiente.</p>
+            mancha específica. Si son varias piezas, una foto por pieza es suficiente. Usamos esas fotos únicamente
+            para cotizar y ejecutar tu servicio, y no las publicamos sin tu autorización expresa; puedes revisar el
+            detalle en nuestro <a href="privacidad.html" style="color:var(--navy);font-weight:600;text-decoration:underline">aviso de privacidad</a>.</p>
         </details>
         <details>
           <summary>¿Se quitan todas las manchas?<svg viewBox="0 0 24 24" fill="none" stroke="currentColor"
@@ -2140,6 +2171,15 @@
           </svg>
           Cotiza por WhatsApp
         </a>
+        <p class="privacy-note">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"
+            stroke-linejoin="round" aria-hidden="true">
+            <path d="M12 3 5 6v6c0 4.2 2.9 7.6 7 9 4.1-1.4 7-4.8 7-9V6l-7-3Z" />
+            <path d="m9 12 2 2 4-4" />
+          </svg>
+          <span>Tus datos y las fotos que nos envías se usan solo para cotizar y realizar tu servicio. No las
+            publicamos sin tu autorización. <a href="privacidad.html">Aviso de privacidad</a></span>
+        </p>
         <div class="hours">
           <b>+52 744 819 4427</b>
           Lunes a sábado, servicios a domicilio<br>
@@ -2169,6 +2209,7 @@
         <li><a href="#nosotros">Nosotros</a></li>
         <li><a href="#faq">Preguntas frecuentes</a></li>
         <li><a href="terminos.html">Términos y condiciones</a></li>
+        <li><a href="privacidad.html">Aviso de privacidad</a></li>
       </ul>
       <p class="copy">© <span id="year"></span> ITAP Hogar · Innovación y Tecnología Avanzada Para tu Hogar. Tenancingo
         de Degollado, Estado de México.</p>
