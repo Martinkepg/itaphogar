@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="es-MX">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Aviso de privacidad · ITAP Hogar</title>
+<meta name="description" content="Aviso de privacidad integral de ITAP Hogar: qué datos y fotografías recabamos al cotizar por WhatsApp, para qué los usamos y cómo ejercer tus derechos ARCO.">
+<meta name="robots" content="noindex">
+<link rel="icon" type="image/svg+xml" href="assets/logo.svg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;800&display=swap" rel="stylesheet">
+<style>
+:root{--navy:#103A76;--red:#DE2E28;--teal:#21B8C7;--ink:#152241;--gray:#5B6472;--line:#E1E6EE;--mist:#F2F5F9}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:'Plus Jakarta Sans',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;color:var(--ink);line-height:1.65;background:#fff;-webkit-font-smoothing:antialiased}
+.wrap{width:min(760px,100% - 40px);margin:0 auto;padding:40px 0 80px}
+header{display:flex;justify-content:space-between;align-items:center;gap:20px;padding-bottom:28px;border-bottom:1px solid var(--line);margin-bottom:40px}
+header img{width:100px;height:auto}
+header a{color:var(--navy);font-weight:600;font-size:.95rem;text-decoration:none}
+header a:hover{text-decoration:underline}
+h1{font-size:2rem;font-weight:800;color:var(--navy);letter-spacing:-.02em;margin-bottom:8px}
+.updated{color:var(--gray);font-size:.92rem;margin-bottom:28px}
+h2{font-size:1.15rem;font-weight:800;color:var(--navy);margin:34px 0 10px}
+h3{font-size:1rem;font-weight:800;color:var(--ink);margin:20px 0 8px}
+p,li{color:var(--ink);font-size:1rem}
+p{margin-bottom:12px}
+ul{padding-left:22px;margin-bottom:12px}
+li{margin-bottom:6px}
+strong{font-weight:600}
+.resumen{background:var(--mist);border-left:4px solid var(--teal);border-radius:0 10px 10px 0;padding:20px 22px;margin-bottom:36px}
+.resumen h2{margin-top:0;font-size:1rem;text-transform:uppercase;letter-spacing:.06em}
+.resumen ul{margin-bottom:0}
+.resumen li{font-size:.97rem}
+.destacado{border:1px solid var(--line);border-radius:12px;padding:20px 22px;margin:20px 0}
+.destacado h3{margin-top:0}
+table{width:100%;border-collapse:collapse;margin:14px 0 20px;font-size:.95rem}
+th,td{text-align:left;padding:10px 12px;border-bottom:1px solid var(--line);vertical-align:top}
+th{background:var(--navy);color:#fff;font-weight:600;font-size:.9rem}
+td:first-child{font-weight:600;width:42%}
+.nota{color:var(--gray);font-size:.9rem;font-style:italic}
+a.inline{color:var(--navy);font-weight:600;text-decoration:underline}
+footer{margin-top:60px;padding-top:24px;border-top:1px solid var(--line);color:var(--gray);font-size:.9rem}
+footer a{color:var(--navy)}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <a href="index.html" aria-label="Volver al inicio"><img src="assets/logo.svg" alt="ITAP Hogar"></a>
+    <a href="index.html">Volver al sitio</a>
+  </header>
+
+  <h1>Aviso de privacidad</h1>
+  <p class="updated">Última actualización: septiembre de 2026 · Aviso de privacidad integral</p>
+
+  <div class="resumen">
+    <h2>En corto</h2>
+    <ul>
+      <li>Te pedimos <strong>nombre, teléfono, ubicación y fotografías</strong> del mueble, colchón, alfombra o vehículo, para poder cotizarte.</li>
+      <li>Usamos esa información <strong>solo para cotizar, agendar y prestar tu servicio</strong>, y para conservar la evidencia del trabajo.</li>
+      <li><strong>No publicamos tus fotografías</strong> ni las usamos en redes sociales sin que tú lo autorices expresamente.</li>
+      <li>No vendemos ni compartimos tus datos con terceros ajenos al servicio.</li>
+      <li>Puedes pedirnos acceder, corregir o eliminar tus datos escribiendo al WhatsApp <strong>+52 744 819 4427</strong>.</li>
+    </ul>
+  </div>
+
+  <h2>1. Quién es responsable de tus datos</h2>
+  <p><strong>[RAZÓN SOCIAL COMPLETA]</strong>, que opera comercialmente como <strong>ITAP Hogar</strong>, línea de negocio de Innovación y Tecnología Avanzada Contra Plagas, con domicilio en <strong>[CALLE Y NÚMERO], Tenancingo de Degollado, Estado de México, C.P. [CÓDIGO POSTAL]</strong>, es responsable del tratamiento de tus datos personales conforme a la Ley Federal de Protección de Datos Personales en Posesión de los Particulares (LFPDPPP), su Reglamento y demás normativa aplicable.</p>
+  <p>Para cualquier asunto relacionado con este aviso puedes contactarnos por WhatsApp al <strong>+52 744 819 4427</strong> o al correo <strong>[CORREO DE CONTACTO]</strong>.</p>
+
+  <h2>2. Qué datos personales recabamos</h2>
+  <table>
+    <tr><th>Categoría</th><th>Datos</th></tr>
+    <tr><td>Identificación y contacto</td><td>Nombre, número de teléfono o WhatsApp, y correo electrónico si decides proporcionarlo.</td></tr>
+    <tr><td>Ubicación</td><td>Domicilio o zona donde se prestará el servicio, y referencias de acceso.</td></tr>
+    <tr><td>Imágenes</td><td>Fotografías y, en su caso, videos del mueble, colchón, alfombra, comedor o interior de vehículo que nos envías para cotizar, así como las fotografías de inicio y cierre que toma nuestro técnico durante el servicio.</td></tr>
+    <tr><td>Operación del servicio</td><td>Servicio solicitado, condición y material del textil, fecha y hora de la visita, observaciones del diagnóstico e incidencias reportadas.</td></tr>
+    <tr><td>Cobro y facturación</td><td>Forma de pago y, únicamente si solicitas factura, los datos fiscales necesarios para emitir el CFDI (RFC, razón social, régimen, uso del CFDI y domicilio fiscal).</td></tr>
+  </table>
+  <p><strong>No recabamos datos personales sensibles</strong> (origen racial o étnico, estado de salud, creencias, preferencias sexuales u opiniones políticas), ni datos financieros más allá de la forma de pago: no almacenamos números de tarjeta ni credenciales bancarias.</p>
+
+  <h2>3. Cómo los recabamos</h2>
+  <ul>
+    <li><strong>De forma directa,</strong> cuando nos escribes por WhatsApp, por teléfono, por nuestras redes sociales o cuando nos entregas información durante la visita.</li>
+    <li><strong>De forma indirecta,</strong> cuando un tercero solicita el servicio en tu domicilio (por ejemplo, un familiar, un arrendador o una empresa). En ese caso, quien lo solicita debe haberte informado previamente.</li>
+  </ul>
+  <p>Este sitio web no cuenta con formularios de captura: toda la información se recibe por los canales de mensajería antes descritos.</p>
+
+  <div class="destacado">
+    <h3>Sobre las fotografías que nos envías</h3>
+    <p>Las fotografías son la base de nuestra cotización y de la evidencia del trabajo: sin ellas no podemos darte un precio justo ni demostrar el resultado. Por eso te pedimos considerar lo siguiente:</p>
+    <ul>
+      <li>Envía únicamente fotografías del textil o del vehículo que quieres limpiar. <strong>Procura que no aparezcan personas, documentos, pantallas o cualquier dato que no quieras compartir.</strong></li>
+      <li>Si una fotografía incluye accidentalmente información que no deseas que conservemos, avísanos y la eliminamos.</li>
+      <li>Las fotografías de inicio y cierre del servicio se conservan como respaldo del alcance contratado y de la revisión por inconformidad prevista en nuestros <a class="inline" href="terminos.html">Términos y condiciones</a>.</li>
+    </ul>
+  </div>
+
+  <h2>4. Para qué usamos tus datos</h2>
+  <h3>Finalidades necesarias</h3>
+  <p>Estas finalidades son indispensables para la relación de servicio: si te opones a ellas, no podremos atenderte.</p>
+  <ul>
+    <li>Elaborar el diagnóstico y la cotización del servicio que solicitas.</li>
+    <li>Contactarte, agendar la visita y coordinar el acceso a tu domicilio.</li>
+    <li>Prestar el servicio y documentarlo con fotografía de inicio y de cierre.</li>
+    <li>Atender inconformidades y, cuando proceda, realizar la visita de revisión.</li>
+    <li>Cobrar el servicio y, si lo solicitas, emitir la factura correspondiente.</li>
+    <li>Cumplir obligaciones legales, fiscales y de conservación de registros.</li>
+  </ul>
+
+  <h3>Finalidades adicionales</h3>
+  <p>Estas finalidades <strong>no son necesarias</strong> para prestarte el servicio y requieren tu autorización expresa y por separado. Si no las autorizas, tu servicio se presta exactamente igual.</p>
+  <ul>
+    <li><strong>Difusión de resultados:</strong> publicar fotografías de antes y después de tu servicio en nuestro sitio web, redes sociales o material publicitario, sin que aparezca tu nombre, tu domicilio ni personas identificables.</li>
+    <li><strong>Testimonios:</strong> reproducir un comentario o reseña que nos hayas dado, con el nombre o iniciales que tú autorices.</li>
+    <li><strong>Avisos de servicio:</strong> enviarte recordatorios de mantenimiento, promociones y novedades por WhatsApp.</li>
+  </ul>
+  <p>Al cierre de cada servicio te preguntamos de forma expresa si autorizas estas finalidades, y tu respuesta queda registrada. <strong>Puedes negarte en ese momento o retirar tu autorización después</strong>, escribiendo al WhatsApp <strong>+52 744 819 4427</strong> con el mensaje "No autorizo el uso publicitario de mis fotografías". Retirar esta autorización no afecta tu servicio ni la garantía de revisión.</p>
+
+  <h2>5. Transferencias y proveedores</h2>
+  <p><strong>No vendemos, cedemos ni comercializamos tus datos personales.</strong> No realizamos transferencias a terceros que requieran tu consentimiento, salvo las que la ley permite sin él (por ejemplo, requerimientos de una autoridad competente o el cumplimiento de obligaciones fiscales).</p>
+  <p>Para operar utilizamos proveedores tecnológicos que actúan como encargados del tratamiento y que únicamente procesan la información por cuenta nuestra:</p>
+  <ul>
+    <li><strong>WhatsApp Business (Meta Platforms):</strong> canal por el que recibimos tus mensajes y fotografías. Su uso se rige además por las políticas propias de esa plataforma.</li>
+    <li><strong>Servicios de almacenamiento en la nube:</strong> resguardo de la evidencia fotográfica y los registros de servicio, en cuentas de acceso restringido al personal de ITAP Hogar.</li>
+    <li><strong>[PROVEEDOR DE FACTURACIÓN, si aplica]:</strong> emisión de CFDI cuando solicitas factura.</li>
+  </ul>
+
+  <h2>6. Cuánto tiempo conservamos tu información</h2>
+  <ul>
+    <li><strong>Fotografías de cotización sin servicio contratado:</strong> se eliminan a los <strong>[90] días</strong> naturales posteriores al último contacto.</li>
+    <li><strong>Evidencia fotográfica y registro de servicios realizados:</strong> se conservan <strong>[24] meses</strong>, como respaldo del trabajo y del periodo de revisión.</li>
+    <li><strong>Datos de contacto de clientes:</strong> mientras exista la relación de servicio y hasta que solicites su eliminación.</li>
+    <li><strong>Registros fiscales y contables:</strong> por el plazo que exige la legislación aplicable.</li>
+  </ul>
+  <p class="nota">Los plazos entre corchetes están sujetos a confirmación definitiva.</p>
+
+  <h2>7. Tus derechos ARCO</h2>
+  <p>Tienes derecho a <strong>Acceder</strong> a tus datos personales, <strong>Rectificarlos</strong> cuando sean inexactos, <strong>Cancelarlos</strong> cuando consideres que no se requieren, y <strong>Oponerte</strong> a su tratamiento para fines específicos. También puedes revocar el consentimiento que nos hayas otorgado y limitar el uso o divulgación de tus datos.</p>
+  <p>Para ejercerlos, envía tu solicitud por WhatsApp al <strong>+52 744 819 4427</strong> o al correo <strong>[CORREO DE CONTACTO]</strong>, indicando:</p>
+  <ul>
+    <li>Tu nombre y un medio para comunicarte la respuesta.</li>
+    <li>Una identificación oficial (o la de tu representante, con el documento que acredite la representación).</li>
+    <li>La descripción clara de los datos sobre los que ejerces el derecho y qué solicitas.</li>
+    <li>Cualquier elemento que facilite localizar tu información (fecha aproximada del servicio, domicilio atendido).</li>
+  </ul>
+  <p>Responderemos tu solicitud en un plazo máximo de <strong>20 días hábiles</strong> y, de resultar procedente, la haremos efectiva dentro de los <strong>15 días hábiles</strong> siguientes. El ejercicio de estos derechos es gratuito; solo podrían cobrarse los gastos justificados de envío o reproducción.</p>
+  <p class="nota">La cancelación puede no proceder cuando debamos conservar la información por una obligación legal o para la defensa de una reclamación. En ese caso te lo explicaremos por escrito.</p>
+
+  <h2>8. Cómo protegemos tu información</h2>
+  <p>Aplicamos medidas administrativas, técnicas y físicas razonables para proteger tus datos contra pérdida, uso indebido, acceso no autorizado o alteración: acceso restringido al personal que interviene en tu servicio, dispositivos y cuentas protegidos con contraseña, y almacenamiento de la evidencia fotográfica en repositorios de acceso limitado. Nuestro personal está instruido para no compartir imágenes de clientes fuera de la operación del servicio.</p>
+
+  <h2>9. Uso de tecnologías en este sitio</h2>
+  <p>Este sitio web <strong>no utiliza cookies propias, formularios de captura ni herramientas de analítica o publicidad</strong> que recojan tus datos personales. Carga tipografías desde un servicio externo (Google Fonts), lo que implica que tu navegador realiza una petición a dicho servicio, la cual puede registrar tu dirección IP conforme a las políticas de ese proveedor. Los botones de WhatsApp y Facebook son enlaces directos: la información que compartas después se rige por las políticas de esas plataformas.</p>
+  <p class="nota">Si en el futuro incorporamos herramientas de medición o publicidad, actualizaremos este aviso antes de activarlas.</p>
+
+  <h2>10. Cambios a este aviso</h2>
+  <p>Podemos actualizar este aviso de privacidad por cambios en nuestros servicios, en la normativa aplicable o en nuestras prácticas internas. La versión vigente será siempre la publicada en esta página, con su fecha de última actualización. Si el cambio es sustancial, te lo informaremos por el mismo medio por el que nos contactaste.</p>
+
+  <h2>11. Autoridad en materia de protección de datos</h2>
+  <p>Si consideras que tu derecho a la protección de datos personales ha sido vulnerado, puedes acudir ante la autoridad competente en materia de protección de datos personales en México para presentar la denuncia o queja correspondiente.</p>
+
+  <h2>12. Contacto</h2>
+  <p>ITAP Hogar · Tenancingo de Degollado, Estado de México · WhatsApp <strong>+52 744 819 4427</strong> · <strong>[CORREO DE CONTACTO]</strong>.</p>
+  <p>Consulta también nuestros <a class="inline" href="terminos.html">Términos y condiciones del servicio</a>.</p>
+
+  <footer>© <span id="y"></span> ITAP Hogar. <a href="index.html">Volver al inicio</a> · <a href="terminos.html">Términos y condiciones</a></footer>
+</div>
+<script>document.getElementById('y').textContent=new Date().getFullYear();</script>
+</body>
+</html>
